@@ -56,7 +56,7 @@ This project tackles the domain of computer vision by building a CNN from scratc
 This section explores sequence modeling by implementing a character-level RNN. It demonstrates how to process sequential data, maintain state through a hidden vector, and implement the Backpropagation Through Time (BPTT) algorithm. This concept is showcased through two distinct applications.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nabeelshan78/char-rnn-dino-name-generator/main/images/rnn-forward-pass-unrolled.png" alt="Unrolled RNN" width="800"/>
+  <img src="https://raw.githubusercontent.com/nabeelshan78/char-rnn-dino-name-generator/main/images/rnn_forward_sequence.png" alt="Unrolled RNN" width="800"/>
   <em><br>The unrolled data flow of an RNN over multiple time steps.</em>
 </p>
 
